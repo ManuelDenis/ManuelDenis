@@ -1,22 +1,15 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Popescu Manuel Denis! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am a Software Development Engineer specializing in web development with a strong focus on building robust backend systems and interactive frontends. My core expertise includes Python, Django, Django REST Framework, PostgreSQL and React.js, along with React-Bootstrap for creating responsive and user-friendly interfaces. I am experienced in developing full-stack applications that are scalable, maintainable, and aligned with modern web standards. Passionate about delivering efficient solutions, I continuously aim to enhance user experience through well-structured, reliable, and performant code.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+- 🔭 I am currently working on a web application designed to unify service providers across sectors like personal care, auto services, legal firms, and notaries. This platform provides a structured framework where clients are organized by their specific service area, enabling users to quickly locate relevant services. By optimizing search engine visibility, the application aims to enhance discoverability and make it easier for users to find necessary services efficiently.
+- 
+- 📝 I’m also working on an article for publication on a dedicated platform, which will cover the custom Google social authentication system I’ve developed. The article will delve into the integration of Django, Django REST framework, dj-rest-auth, and allauth to build a seamless authentication solution that combines both Google social login and traditional email/password login.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,react,js,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -34,8 +27,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/manuel-p-5385a196/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
