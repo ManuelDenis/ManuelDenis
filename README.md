@@ -6,7 +6,7 @@ I am a Software Development Engineer specializing in web development with a stro
 
 - 🔭 I am currently working on a web application designed to unify service providers across sectors like personal care, auto services, legal firms, and notaries. This platform provides a structured framework where clients are organized by their specific service area, enabling users to quickly locate relevant services. By optimizing search engine visibility, the application aims to enhance discoverability and make it easier for users to find necessary services efficiently.
 
-- 📝 I’m also working on an article for publication on a dedicated platform, which will cover the custom Google social authentication system I’ve developed. The article will delve into the integration of Django, Django REST framework, dj-rest-auth, and allauth to build a seamless authentication solution that combines both Google social login and traditional email/password login.
+- 📝 I’m also working on an article for publication on a dedicated platform, which will cover the custom Google social authentication system I’ve developed. The article will delve into the integration of Django, Django REST framework, dj-rest-auth, and allauth to build a seamless authentication solution that combines both Google social login and traditional email/password login. More details [AuthProject](https://github.com/ManuelDenis/authproject)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,javascript,react,html,css)](https://skillicons.dev)
