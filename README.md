@@ -4,7 +4,22 @@ I am a Software Development Engineer specializing in web development with a stro
 
 ## 🚀 About Me
 
-- 🔭 I am currently working on a web application designed to unify service providers across sectors like personal care, auto services, legal firms, and notaries. This platform provides a structured framework where clients are organized by their specific service area, enabling users to quickly locate relevant services. By optimizing search engine visibility, the application aims to enhance discoverability and make it easier for users to find necessary services efficiently.
+I am currently developing a highly secure authentication system for a banking application, leveraging modern web technologies such as Django, Django REST Framework, Next.js, and PostgreSQL.
+
+The system includes:
+JWT-based authentication via HttpOnly and Secure cookies
+CSRF protection across both browser and API layers
+Custom rate limiting and IP-based throttling to prevent brute-force attacks
+Google OAuth2 integration for seamless and secure third-party login
+2FA (Two-Factor Authentication) using Google Authenticator (TOTP) for critical actions and login
+Login lockout mechanism after multiple failed attempts (with exponential backoff)
+Granular access control using role-based permissions and API scopes
+Strict cookie policies (HttpOnly, Secure, SameSite)
+Comprehensive security headers, including Content-Security-Policy, Strict-Transport-Security, X-Frame-Options, Referrer-Policy, etc.
+XSS and clickjacking protection via frontend sanitization and backend validation
+Device/session management, with refresh token rotation and invalidation
+Audit logging and traceability for login attempts and permission changes
+The architecture is designed to meet financial-grade security standards, with a focus on resilience, data integrity, and attack surface minimization.
 
 - 📝 I’m also working on an article for publication on a dedicated platform, which will cover the custom Google social authentication system I’ve developed. The article will delve into the integration of Django, Django REST framework, dj-rest-auth, and allauth to build a seamless authentication solution that combines both Google social login and traditional email/password login. More details and description here [AuthProject](https://github.com/ManuelDenis/authproject)
 
