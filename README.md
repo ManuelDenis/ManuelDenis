@@ -21,11 +21,6 @@ Device/session management, with refresh token rotation and invalidation
 Audit logging and traceability for login attempts and permission changes
 The architecture is designed to meet financial-grade security standards, with a focus on resilience, data integrity, and attack surface minimization.
 
-- 📝 I’m also working on an article for publication on a dedicated platform, which will cover the custom Google social authentication system I’ve developed. The article will delve into the integration of Django, Django REST framework, dj-rest-auth, and allauth to build a seamless authentication solution that combines both Google social login and traditional email/password login. More details and description here [AuthProject](https://github.com/ManuelDenis/authproject)
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,javascript,react,html,css)](https://skillicons.dev)
-
 ## 🌱 Currently Exploring
 
 - 🚀  Expanding My Full Stack Web Development Skills
@@ -34,14 +29,11 @@ The architecture is designed to meet financial-grade security standards, with a 
   - Tailwind CSS: Crafting modern, responsive, and visually appealing user interfaces with a utility-first approach.
 
  ## 🏆 Achievements
-
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
-
 - Connect with me on [Linkedin](https://www.linkedin.com/in/manuel-p-5385a196/)
-
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
